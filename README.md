@@ -1,0 +1,3 @@
+This repository contains a simple ActionScript 3.0 example that demonstrates a runtime error encountered in older versions of Flash Player (prior to Flash Player 10). The error is related to the trace() function, which was not consistently handled across all versions.
+
+The bug.as file shows the original code that produces the error. The bugSolution.as file demonstrates a solution that ensures compatibility with older Flash Players.
